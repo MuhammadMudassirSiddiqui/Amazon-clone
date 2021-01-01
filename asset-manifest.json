@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-AmazonClone/static/css/main.2e05fb94.chunk.css",
+    "main.js": "/react-AmazonClone/static/js/main.da1cd81d.chunk.js",
+    "main.js.map": "/react-AmazonClone/static/js/main.da1cd81d.chunk.js.map",
+    "runtime-main.js": "/react-AmazonClone/static/js/runtime-main.5126e10b.js",
+    "runtime-main.js.map": "/react-AmazonClone/static/js/runtime-main.5126e10b.js.map",
+    "static/js/2.7096fa1c.chunk.js": "/react-AmazonClone/static/js/2.7096fa1c.chunk.js",
+    "static/js/2.7096fa1c.chunk.js.map": "/react-AmazonClone/static/js/2.7096fa1c.chunk.js.map",
+    "static/js/3.2a3ff8bd.chunk.js": "/react-AmazonClone/static/js/3.2a3ff8bd.chunk.js",
+    "static/js/3.2a3ff8bd.chunk.js.map": "/react-AmazonClone/static/js/3.2a3ff8bd.chunk.js.map",
+    "index.html": "/react-AmazonClone/index.html",
+    "static/css/main.2e05fb94.chunk.css.map": "/react-AmazonClone/static/css/main.2e05fb94.chunk.css.map",
+    "static/js/2.7096fa1c.chunk.js.LICENSE.txt": "/react-AmazonClone/static/js/2.7096fa1c.chunk.js.LICENSE.txt",
+    "static/media/TV.db4cdbec.jpg": "/react-AmazonClone/static/media/TV.db4cdbec.jpg",
+    "static/media/alexa.c70616ef.png": "/react-AmazonClone/static/media/alexa.c70616ef.png",
+    "static/media/blender.0f7419f1.webp": "/react-AmazonClone/static/media/blender.0f7419f1.webp",
+    "static/media/iPhone.df7085b1.jpg": "/react-AmazonClone/static/media/iPhone.df7085b1.jpg",
+    "static/media/ps4.119ad7a9.jpg": "/react-AmazonClone/static/media/ps4.119ad7a9.jpg",
+    "static/media/s6.92903282.jpg": "/react-AmazonClone/static/media/s6.92903282.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5126e10b.js",
+    "static/js/2.7096fa1c.chunk.js",
+    "static/css/main.2e05fb94.chunk.css",
+    "static/js/main.da1cd81d.chunk.js"
+  ]
+}
